@@ -1,0 +1,28 @@
+{
+  "name": "stickytable",
+  "title": "jQuery Sticky Table",
+  "description": "makes a scrollable table with a sticky header and footer",
+  "version": "1.0.0",
+  "homepage": "stickytable",
+  "author": {
+    "name": "Nadia Miętkiewicz",
+    "url": "https://github.com/nmietkiewicz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "stickytable"
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
