@@ -25,8 +25,18 @@ jQuery(function($) {
 ```
 
 ## Documentation
-_(Coming soon)_
 
+Options:
+
+height
+	?px / auto
+
+headerstick
+	true / false
+
+footerstick true
+	true/false
+	
 ## Examples
 _(Coming soon)_
 
