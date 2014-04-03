@@ -16,7 +16,10 @@ In your web page:
 <script src="dist/stickytable.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+	$('#yourTable').stickyfooter({
+        height: "auto"
+    }); 
+
 });
 </script>
 ```
